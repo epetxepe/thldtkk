@@ -1,0 +1,1180 @@
+{
+	"beta": "BETA",
+	"dataset": "Dataset",
+	"datasets": "Datasets",
+	"newDataset": "New dataset",
+	"datasetSidebar": {
+		"datasetDescription": "Dataset description",
+		"instanceVariables": "Instance variables",
+		"administrativeInformation": "Administrative information"
+	},
+	"datasetTabs": {
+		"basicInformation": "Basic information",
+		"instanceVariables": "Instance variables"
+	},
+	"instanceVariables": "Instance variables",
+	"contactPerson": "Contact person",
+	"description": "Description",
+	"population": "Population",
+	"geographicalCoverage": "Geographical coverage",
+	"sampleSize": "Sample size",
+	"sample": "Sample",
+	"loss": "Loss",
+	"organization": "Organization",
+	"back": "Back",
+	"published": "Published",
+	"false ()": "No",
+	"true ()": "Yes",
+	"search": "Search",
+	"date.placeholder": "e.g. 23.06.2017",
+	"pcalendar": {
+		"dateFormat": "dd.mm.yy",
+		"firstDayOfWeek": 1,
+		"dayNames": ["sunday", "monday", "tuesday", "wednesday", "thrusday", "friday", "saturday"],
+		"dayNamesShort": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
+		"dayNamesMin": ["sun", "Mon", "tue", "wed", "thu", "fri", "sat"],
+		"monthNames": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"],
+		"monthNamesShort": ["jan", "feb", "mar", "apr", "may ", "june", "july", "aug", "sept", "oct", "nov", "dec"]
+	},
+	"abbreviation": "Abbreviation",
+	"altLabel": "Alternative text",
+	"noInstanceVariables": "No variables specified",
+	"registryPolicy": "Register content for its declaration",
+	"usageCondition": "Usage condition",
+	"usageConditionAdditionalInformation": "Usage condition, additional information",
+	"studyLifecyclePhase": "Study lifecycle phase",
+	"datasetLifecyclePhase": "Dataset lifecycle phasee",
+	"referencePeriod": "Reference period",
+	"referencePeriodStart": "Reference period start",
+	"referencePeriodEnd": "Reference period end",
+	"referencePeriodStart.short": "Ref period start",
+	"referencePeriodEnd.short": "Ref period end",
+	"noReferencePeriod": "No reference period",
+	"collectionDate": "Collection date",
+	"collectionStartDate": "Collection start date",
+	"collectionEndDate": "Collection end date",
+	"noCollectionDate": "No collection date.",
+	"valueInDataset": "Value in dataset",
+	"inheritedFromDataset": "Inherited from dataset",
+	"valueInStudy": "Value in study",
+	"inheritedFromStudy": "Inherited from study",
+	"datasetEditor": "Dataset editor",
+	"helpLink": "Help link",
+	"prefLabel": "Name",
+	"edit": "Edit",
+	"remove": "Remove",
+	"save": "Save",
+	"saveAndGoToNext": "Save and go to next",
+	"goToNext": "Go to next",
+	"cancel": "Cancel",
+	"duplicate": "Duplicate",
+	"copy": "Copy",
+	"close": "Close",
+	"unpublished": "Unpublished",
+	"false": "No",
+	"true": "Yes",
+	"confirmDatasetDelete": "Confirm dataset delete",
+	"inputDateFormat": "yyyy-mm-dd",
+	"addInstanceVariable": "Add instance variable",
+	"newInstanceVariable": "New instance variable",
+	"confirmInstanceVariableDelete": "Confirm instance variable delete",
+	"organizations": "Organizations",
+	"organizationUnit": "Organization unit",
+	"confirmPublishDataset": "Confirm publish dataset",
+	"confirmWithdrawDataset": "Confirm withdraw dataset",
+	"functions": "Functions",
+	"numberOfObservationUnits": "Number of observation units",
+	"technicalName": "Technical name",
+	"datasetType": "Dataset type",
+	"comment": "Comment (not shown in the catalog)",
+	"concepts": "Keywords",
+	"conceptsFromScheme": "Keywords",
+	"conceptsFromSchemePlaceholder": "Search for topics...",
+	"noMatchingConcepts": "No matching concepts.",
+	"noConceptsFromScheme": "Asiasanoja ei ole määritelty.",
+	"freeConcepts": "Free keywords",
+	"noFreeConcepts": "Free topics are not defined.",
+	"source": "Source",
+	"personInRoles": {
+		"label": "People associated with the data",
+		"person": "Person",
+		"role": "Role",
+		"public": {
+			"title": "Visibility in the catalog",
+			"checkbox": "Show in catalog",
+			"true": "Show in the catalog",
+			"false": "Not shown in the catalog"
+		}
+	},
+	"registryOrganization": "Registrar",
+	"registryOrganizationUnit": "Registry organizer unit",
+	"dataProtection": "Privacy Policy",
+	"dataSecurity": "Security",
+	"archiving": "Filing",
+	"isStudyPersonRegistry": "Does the material have a personal record or not",
+	"phoneNumberForRegistryPolicy": "The registrar's phone number",
+	"addressForRegistryPolicy": "The controller's address",
+	"noDatasetPersonInRoles": "Persons associated with the data have not been defined.",
+	"noStudyPersonInRoles": "No data related to the material is specified.",
+	"purposeOfPersonRegistry": "Purpose / reason for processing personal data",
+	"personRegistrySources": "Registry information sources",
+	"personRegisterDataTransfers": "Transfers of information in the register",
+	"personRegisterDataTransfersOutsideEuOrEea": "Transfer of data outside the EU or EEA",
+	"confidentialityClass": {
+		"label": "Publicity category for data content",
+		"PUBLIC": "Public",
+		"PARTLY_CONFIDENTIAL": "Partially confidential",
+		"CONFIDENTIAL": "Confidential",
+		"empty": "Not defined"
+	},
+	"groundsForConfidentiality": "The grounds for secrecy",
+	"securityClassification": {
+		"label": "Security Level",
+		"I": "st I",
+		"II": "st II",
+		"III": "st III",
+		"IV": "st IV",
+		"empty": "Not defined"
+	},
+	"principlesForPhysicalSecurity": {
+		"label": "Principles of Physical Protection",
+		"LOCKED_SPACE": "Locked mode"
+	},
+	"principlesForDigitalSecurity": {
+		"label": "Principles of digital protection",
+		"USERNAME": "User name",
+		"PASSWORD": "Password",
+		"LOGGING": "Use registration",
+		"PHYSICAL_ACCESS_CONTROL": "Access control",
+		"PSEUDONYMIZATION": "Pseudonymization",
+		"ANONYMIZATION": "Anonymisation",
+		"REMOVAL_OF_IDENTIFIABLE_INFORMATION": "Removing tags",
+		"MULTI_FACTOR_AUTHENTICATION": "Multi-Step Authentication",
+		"ENCRYPTION_OF_INFORMATION": "Separate encryption of the data"
+	},
+	"selectPrinciples": "Choose Principles",
+	"amountPrinciplesSelected": "Chosen principle",
+	"dataProcessingDuration": "Duration of data processing",
+	"dataProcessingStartDate": "Start date of data processing",
+	"dataProcessingEndDate": "End date of data processing",
+	"retentionPolicy": {
+		"label": "Conservation",
+		"UNDEFINED": "Not defined",
+		"PERMANENT": "Permanent",
+		"DEFINITE_DURATION": "Fixed-term",
+		"PARTIALLY_PERMANENT_OR_DEFINITE_DURATION": "Partially or permanently"
+	},
+	"retentionPeriod": "Periods of retention",
+	"noRetentionPeriod": "The retention time was not determined",
+	"groundsForRetention": "The criterion of retention",
+	"noGroundsForRetention": "The storage time criterion was not specified",
+	"nationalArchivesFinlandArchivalDecision": "Decision on the permanent retention of the National Archives",
+	"noNationalArchivesFinlandArchivalDecision": "Not defined",
+	"selectExistenceForms": "Select the modes",
+	"amountExistenceFormsSelected": "selected mode",
+	"noExistenceForm": "Not defined",
+	"existenceForm": {
+		"label": "Material status",
+		"DIGITAL": "Digital",
+		"PAPER": "Paper",
+		"SAMPLE": "Sample"
+	},
+	"physicalLocation": "Physical location",
+	"noPhysicalLocation": "Not defined",
+	"addNewPersonInRole": "Add a person",
+	"addNewPerson": "Create a new person...",
+	"newPerson": "New Person",
+	"editPerson": "Edit a person ...",
+	"editedPerson": "Customizable person",
+	"person": {
+		"firstName": "First name",
+		"lastName": "Last name",
+		"email": "E-mail",
+		"phone": "Phone"
+	},
+	"noPerson": "No person",
+	"noRole": "No role",
+	"links": "Links",
+	"linkName": "Link text",
+	"linkUrl": "Link URL",
+	"addNewLink": "Add a new link",
+	"noDatasetLinks": "There are no defined links for the data set.",
+	"datasetRelations": {
+		"label": "Relationships with other data sets",
+		"predecessor": "Predecessor",
+		"predecessors": "Predecessors",
+		"successor": "Successor",
+		"successors": "Successors",
+		"definedByOtherDataset": "The relationship is defined in the destination data set",
+		"targetDataset": " Destination data set",
+		"relationType": "The type of relationship",
+		"noDataset": "No data set"
+	},
+	"noDatasetRelations": "Relationships between datasets are not defined.",
+	"addNewDatasetRelation": "Add a new dataset relation",
+	"selectDatasetType": "Select the type of material",
+	"amountDatasetTypesSelected": "The type of file selected",
+	"loading": "Loading ...",
+	"loadMoreResults": "View more search results",
+	"uploadFromFile": "Importing a dataset from a file (NOTE: Importing a data set clears all fields)",
+	"uploadDataset": "Imports the Data Set",
+	"valueDomain": "Value range",
+	"valueDomainType": {
+		"label": "Value range Type",
+		"described": "Continuous",
+		"enumerated": "Classified"
+	},
+	"universes": "Populations",
+	"variables": "The concept of variables",
+	"codeLists": "Lists of codes",
+	"quantity": "Quantity",
+	"noQuantity": "No Quantity",
+	"addQuantity": "Add Quantity...",
+	"newQuantity": "New Quantity",
+	"unit": "Measure unit",
+	"symbol": "Logo",
+	"noUnit": "No measurement units",
+	"addUnit": "Add measurement unit ...",
+	"newUnit": "New measurement unit",
+	"noPersonRegistry": "Not defined",
+	"catalog": {
+		"logoText": "Material catalog",
+		"personInRoles": "Contact",
+		"collectionDate": "Collection Time",
+		"searchStudies": {
+			"filterByOrganizationsLabel": "Filter by organization",
+			"searchFieldLabel": "Search for datasets",
+			"searchFieldPlaceholder": "Search for datasets by name...",
+			"noStudiesFoundText": "No datasets found.",
+			"noStudiesFoundWithOrganizationSelectedText": "No dataset was found with the search and the selected organization boundary ...."
+		},
+		"searchInstanceVariable": {
+			"searchFieldLabel": "Search for variables",
+			"searchFieldPlaceholder": "Find variables by name, description or keyword...",
+			"foundInDataset": "The data set contains",
+			"noVariable": "No concept variable",
+			"noReferencePeriod": "not defined",
+			"noAssociatedDataset": "No related data set",
+			"searchSummary": "A search result {{resultCount}} was found "
+		},
+		"frontpage": {
+			"mainHeader": "Material catalog",
+			"leadText": "Material descriptions from one place.",
+			"latestStudies": "Latest material",
+			"allStudiesButton": "All Material Descriptions",
+			"searchVariables": "Search for variables",
+			"searchVariableInfo": "Find variables by name, description or keyword. Try, for example, smoking.",
+			"searchVariablePlaceholder": "Write a search word",
+			"noStudies": "No material found"
+		},
+		"searchVariable": {
+			"searchForVariables": "Get handheld variables ...",
+			"searchSummary": "The {{resultCount}} concept was found with the search query "
+		},
+		"variableData": {
+			"instanceVariableColumnHeading": "Variable",
+			"datasetColumnHeading": "Dataset",
+			"studyColumnHeading": "Material",
+			"noStudy": "No related material",
+			"noDataset": "No related data set"
+		},
+		"study": {
+			"goToDataset": "Go to the data set",
+			"datasetVariableCountLabel": "Variable",
+			"datasetVariablesBreakdown": "Data variables are divided into {{datasetCount}} data set",
+			"studiesLink": "Go to the list of material"
+		},
+		"dataset": {
+			"defaultInstanceVariableGroupName": "Variables without a variable group",
+			"instanceVariableFilterRemoveAllSelections": "Remove the options",
+			"instanceVariableFilterSelectAll": "Choose all",
+			"studyLink": "Go to data set material"
+		},
+		"instanceVariable": {
+			"datasetLink": "Go to the variable dataset"
+		},
+		"footer": {
+			"infoText": "The catalog has been developed in cooperation with THL, Statistics Finland, Tietoarkisto and Sitra.",
+			"contactEmail": "info@aineistokatalogi.fi"
+		},
+		"studyGroupData": {
+			"studyColumnHeading": "Series material"
+		},
+		"helpText": {
+			"instanceVariableSearch": {
+				"variable": "Variable instructions here"
+			},
+			"study": {
+				"personInRoles": "Contact instructions here",
+				"datasetType": "Material Type Instructions here",
+				"usageCondition": "Terms of Use - Instructions here",
+				"links": "Links - Instructions for this",
+				"universe": "Basic set - instructions here",
+				"referencePeriod": "Reference time - instructions here",
+				"geographicalCoverage": "Regional coverage - instructions here",
+				"concepts": "Keywords - instructions here"
+			},
+			"dataset": {
+				"personInRoles": "Contact information - instructions here",
+				"datasetType": "Material type - instructions here",
+				"usageCondition": "Terms of Use - instructions here",
+				"links": "Links - instructions here",
+				"universe": "Basic set - instructions for this",
+				"referencePeriod": "Reference time - instructions for this",
+				"geographicalCoverage": "Territorial Coverage - Instructions for this",
+				"unitType": "Type of observation unit - instructions for this",
+				"numberOfObservationUnits": "Number of Observation Units - Instructions for this",
+				"datasetLifecyclePhase": "Datasheet Life Cycle Step - Instructions for this",
+				"population": "Target set - instructions for this",
+				"sample": "Sample - Instructions for this",
+				"loss": "Kato - instructions for this",
+				"concepts": "Keywords - instructions for this"
+            },
+			"instanceVariable": {
+              "partOfGroup": "Variable group - instructions here",
+              "conceptsFromScheme": "Keywords - instructions for this",
+              "referencePeriod": "Reference time - instructions for this",
+              "valueDomain": "Value range - instructions here",
+              "unit": "Unit of measurement - instructions here",
+              "codeList": "Coding - instructions for this",
+              "technicalName": "Technical name - instructions for this",
+              "valueRangeMin": "The minimum allowed value of the variable - instructions here",
+              "valueRangeMax": "Maximum value of the variable - instructions for this",
+              "missingValues": "Description of missing variables for the variable - instructions for this",
+              "defaultMissingValue": "The missing code for the variable - instructions here",
+              "qualityStatement": "Other information affecting the quality of the variable - instructions here",
+              "variable": "Handwriting - instructions for this",
+              "instanceVariableSource": "Variable Data Source - Instructions for this",
+              "data type": "Data type - instructions here",
+              "dataFormat": "Form of Information - Instructions for this",
+              "unitType": "Type of observation unit - instructions for this",
+              "instanceQuestions": "Question related to the variable - instructions here"
+            }
+		}
+	},
+	"qualityStatement": "Other variable information affecting the variable",
+	"codeList": {
+      "label": "Code",
+      "prefLabel": "Name",
+      "referenceId": "External tag",
+      "description": "Description",
+      "owner": "Owner"
+    },
+	"codeListType": {
+      "external": "Reference to external coding",
+      "internal": "Self defined code"
+    },
+	"codeListPlaceholder": "Choose a code...",
+	"noMatchingCodeLists": "No coders were found with the search.",
+	"noCodeList": "No coding",
+	"addCodeList": "Add a code ...",
+	"newCodeList": "New code",
+	"editCodeList": "Edit the code",
+	"codeItems": "Codes",
+	"codeItem": {
+		"code": "Code",
+		"prefLabel": "Value"
+	},
+	"noCodeItems": "No tags have been specified.",
+	"addCodeItem": "Add code",
+	"viewCodeItems": "See the codes",
+	"missingValues": "Missing namespace for the variable",
+	"defaultMissingValue": "The missing code for the variable",
+	"valueRangeMin": "The minimum value of the variable",
+	"valueRangeMax": "Maximum value of the variable",
+	"instanceVariableSource": "Variable Data Source",
+	"sourceDescription": "Data source, free text field",
+	"sourcePlaceholder": "Get datasets ...",
+	"noMatchingSources": "No datasets found.",
+	"variable": "The concept of variable",
+	"noVariable": "No manipulation variables have been defined",
+	"variableHelpText": "The handwriting variable is a variable that combines the same property or individual variables that describe each subject in different datasets. The concept of a variable allows researchers to find variables that look at different aspects of a single phenomenon (such as smoking) from a different point of view",
+	"addVariable": "Add a concept variable ...",
+	"editVariable": "Edit the concept variable",
+	"newVariable": "New Concept variable",
+	"noSearchResults": "No Search",
+	"searchForVariables": "Search for conceptual variables ...",
+	"or": "or",
+	"partOfGroup": "Variable group",
+	"lastModified": "Last Modified",
+	"Data type": "Data Type",
+	"requiredField": "Information is required",
+	"unitType": "Observation Unit Type",
+	"unitTypes": "Observation Unit Types",
+	"addUnitType": "Add Observation Unit Type ...",
+	"newUnitType": "New Observation Unit Type",
+	"editUnitType": "Modify Observation Unit Type",
+	"editUniverse": "Modify Base Set",
+	"unitTypeSearchPlaceholder": "Search Observation Unit Types ...",
+	"universeSearchPlaceholder": "Search for bases ...",
+	"variableSearchPlaceholder": "Get Concept Variables ...",
+	"codeListSearchPlaceholder": "Get Codes ...",
+	"studySearchPlaceholder": "Search for material ...",
+	"confirmRemoveCodeListModal": {
+      "message": "Are you sure you want to remove the code {{codeList}}? The code uses the {{instanceVariableCount}} variable",
+      "header": "Delete confirmation",
+      "removeButtonLabel": "Delete",
+      "cancelButtonLabel": "Cancel"
+    },
+	"confirmRemoveUnitTypeModal": {
+		"header": "Deletion confirmation",
+		"message": "Are you sure you want to remove the unit type '{{unitType}}? The observation unit type uses {{datasetCount}} data set and variable {{instanceVariableCount}}.",
+		"removeButtonLabel": "Delete",
+		"cancelButtonLabel": "Cancel"
+	},
+	"confirmRemoveUniverseModal": {
+		"header": "Deletion confirmation",
+		"message": "Are you sure you want to remove the '{{universe}}' base? The base set uses {{datasetCount}} data set."
+	},
+	"errors": {
+		"form": {
+			"required": "Information is mandatory",
+			"invalidDate": "Invalid date.",
+			"invalidLinkUrlFormat": "Invalid URL. Fill in the prefix, for example, 'http://osoite.fi'",
+			"inconsistentStudyAndSystemOrganizations": "The material and associated information systems do not have the same organization. Cancel organizational change or remove associated information systems from administrative data.",
+			"inconsistentSystemAndStudyOrganizations": "Attached information systems and materials do not have the same organization. Remove systems that are not part of the organization of the material or change the organization of the material"
+		},
+		"server": {
+			"operationFailed": "Action failed",
+			"saveFailed": "Saving failed",
+			"deleteFailed": "Deletion failed",
+			"notFound": "No entity found with the given tag.",
+			"badRequest": "Sent data was incorrect.",
+			"forbidden": "You do not have the necessary rights to perform the operation.",
+			"unauthorized": "You must log in to complete the action.",
+			"unavailable": "Can not connect to server, please try again a few moments.",
+			"unknownError": "An unknown error on the server, try again a few moments."
+		}
+	},
+	"operations": {
+		"common": {
+			"save": {
+				"result": {
+					"success": "Saving succeeded",
+					"fail": {
+						"summary": "Saving failed",
+						"detail": "Please check the entered information."
+					}
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "Deletion succeeded"
+				}
+			}
+		},
+		"dataset": {
+			"get": {
+				"result": {
+					"fail": "Failed to fetch the dataset"
+				}
+			},
+			"save": {
+				"result": {
+					"success": "Datasets saved"
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "Datasets deleted"
+				}
+			},
+			"publish": {
+				"result": {
+					"success": "Datasets released",
+					"fail": "Failed to publish the dataset"
+				}
+			},
+			"unpublish": {
+				"result": {
+					"success": "Publication of the dataset was canceled",
+					"fail": "Failed to cancel publication of the dataset"
+				}
+			}
+		},
+		"instanceVariable": {
+			"get": {
+				"result": {
+					"fail": "Failed to fetch a variable"
+				}
+			},
+			"save": {
+				"result": {
+					"success": "Variable saved"
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "The variable was deleted"
+				}
+			},
+			"import": {
+				"result": {
+					"success": "Variables were imported successfully",
+					"fail": "Failed to import variables"
+				}
+			}
+		},
+		"variable": {
+			"save": {
+				"result": {
+					"success": "The processed variable is saved"
+				}
+			},
+			"get": {
+				"result": {
+					"fail": "The query failed to find the variable"
+				}
+			},
+			"delete": {
+				"confirmRemoveVariableModal": {
+					"removeButtonLabel": "Delete",
+					"cancelButtonLabel": "Peru",
+					"header": "Are you sure you want to delete the concept variable?",
+					"message": "The variable '{{variable}}' refers to the variable {{instanceVariableAmount}}."
+				},
+				"result": {
+					"success": "The treatment variable was deleted"
+				}
+			}
+		},
+		"person": {
+			"save": {
+				"result": {
+					"success": "Person saved"
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "The person was deleted "
+				}
+			}
+		},
+		"role": {
+			"save": {
+				"result": {
+					"success": "Role saved"
+				}
+			}
+		},
+		"quantity": {
+			"save": {
+				"result": {
+					"success": "Quantity saved"
+				}
+			}
+		},
+		"unit": {
+			"save": {
+				"result": {
+					"success": "The unit is saved"
+				}
+			}
+		},
+		"unitType": {
+			"delete": {
+				"result": {
+					"success": "Observation Unit Type Removed"
+				}
+			},
+			"save": {
+				"result": {
+					"success": "Observation unit saved"
+				}
+			}
+		},
+		"codeList": {
+			"save": {
+				"result": {
+					"success": "Code saved"
+				}
+			}
+		},
+		"instanceQuestion": {
+			"save": {
+				"result": {
+					"success": "Query question saved"
+				}
+			}
+		},
+		"study": {
+			"save": {
+				"result": {
+					"success": "Material saved",
+					"fail": {
+						"summary": "Failed to save material"
+					}
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "Material removed"
+				}
+			}
+		},
+		"system": {
+			"save": {
+				"result": {
+					"success": "System saved"
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "System deleted"
+				}
+			}
+		},
+		"organizationUnit": {
+			"save": {
+				"result": {
+					"success": "Organization unit saved"
+				}
+			},
+			"delete": {
+				"result": {
+					"success": "The organizational unit was deleted"
+				}
+			}
+		},
+		"organization": {
+			"save": {
+				"result": {
+					"success": "Organization unit saved"
+				}
+			}
+		}
+	},
+	"printRegisterDescription": "Print Privacy Policy",
+	"importInstanceVariablesAsCsvButton": "Add variables from a CSV file ...",
+	"importInstanceVariablesModal": {
+		"header": "Import variables from a CSV file",
+		"file": {
+			"label": "Producing CSV file",
+			"exampleInstanceVariableCsv": {
+				"helpText": {
+					"exampleFile": "An example file can be downloaded",
+					"dateFormat": "Before importing, make sure all dates in the CSV file are in the correct format (ISO 8601, dd / mm / yy), for example 2018-04-15."
+				},
+				"linkText": "From here."
+			}
+		},
+		"overwrite": {
+			"false": "Keep existing variables",
+			"true": "Replace existing variables",
+			"warningText": "Note. This option removes the current variables in the data set!",
+			"warningQuestion": "Are you sure you want to remove existing data set from the data set?"
+		},
+		"encoding": {
+			"label": "File character set",
+			"helpText": "The character set affects whether or not characters and other special characters are visible after import. The character set for the CSV file stored in Excel with the Windows operating system is generally <em> ISO-8859-15 </ em>. In Mac, the Excel character set is typically <em> MacRoman </ em>."
+		},
+		"buttons": {
+			"import": "Import the variables",
+			"preview": "Preview"
+		},
+		"result": {
+			"column": "Column",
+			"errors": "There was an error with CSV import",
+			"instanceVariablesImported": "The variable was imported",
+			"row": "Row",
+			"success": "Importing variables successfully!"
+		}
+	},
+	"exportInstanceVariablesAsCsvButton": "Download variables as a CSV file",
+	"instanceQuestions": "Question related to the variables",
+	"noInstanceQuestions": "There are no queries related to the variable.",
+	"noMatchingInstanceQuestions": "No questions were found",
+	"instanceQuestionsPlaceholder": "Get questionnaires...",
+	"newInstanceQuestion": "New questionnaire",
+	"questionText": "Question Text",
+	"addInstanceQuestion": "Add a questionnaire",
+
+	"pageTitles": {
+		"editor": {
+			"suffix": "Material editor",
+			"datasetList": "DataSet",
+			"editInstanceVariable": "Edit the variable",
+			"newInstanceVariable": "New variable",
+			"editDataset": "Edit the data set",
+			"newDataset": "New data sets",
+			"editStudy": "Edit the material",
+			"newStudy": "New material",
+			"variables": "The concept of variables",
+			"unitTypeList": "Observation Unit Types",
+			"frontpageLogin": "Log in to the service",
+			"administrativeInformation": "Administrative information",
+			"codeLists": "Lists of codes",
+			"universes": "Populations",
+			"studies": "Resources",
+			"instanceVariableSearch": "Variable Search"
+		},
+		"catalog": {
+			"suffix": "Material Catalog",
+			"frontpage": "Front page",
+			"datasetList": "DataSet",
+			"studies": "Resources",
+			"instanceVariableSearch": "Variable Search"
+		}
+	},
+	"dataFormat": "The form of information",
+	"universe": "Population",
+	"noUniverse": "No population",
+	"addUniverse": "Add a Basic Set ...",
+	"newUniverse": "New population",
+	"mainMenu": {
+		"userMenu": {
+			"logoutLink": "Sign out"
+		}
+	},
+	"adminMenu": {
+		"title": "Maintenance"
+	},
+	"editorLoginComponent": {
+		"aboutEditor": "<p>The material editor is a national descriptor system. The selected materials will be published in open <a href='https://aineistokatalogi.fi'>Data Catalog service</a>.</p><p>Users represent their organizations, but sign up using their personal IDs.</p><strong>You can log in to the data editor:</strong><ul><li>Virtuous Agencies</li><li>Licensing authorities</li></ul><p>If you want to enable the editor in your organization, please contact us<a href='mailto:info@aineistokatalogi.fi'>info@aineistokatalogi.fi</a></p>",
+		"loginHeading": "Log in",
+		"userName": "User name",
+		"password": "Password",
+		"loginOptionVirtu": "Virtu",
+		"loginOptionThl": "THL login service",
+		"loginButton": "Log in",
+		"noDatasets": "No datasets found",
+		"noOrganizationDatasets": "Your organization did not find datasets",
+		"thlTroubleshootContact": "In case of problems contact technical support.",
+		"genericTroubleshootContact": {
+			"message": "In case of problems contact us:",
+			"email": "info@aineistokatalogi.fi"
+		},
+		"virtuLoginFailed": "Login failed,  try again after a moment. If the problem persists, contact the service administrator.",
+		"thlLoginFailed": "Login failed. check username and password.",
+		"logoutSuccess": "You logged out successfully",
+		"logoutSuccessDetails": "Sign in to continue using the editor",
+		"timeout": "Session has expired",
+		"timeoutDetails": "Please be sure to save the changes you made",
+		"loginAdvice": "What signup should I use?",
+		"loginAdviceTooltip": "If you are a virtuous employee, use Virtua. For others, we offer an alternative to THL's own sign-in service"
+	},
+	"StudyEditComponent": {
+		"selectedOwnerOrganizationHasNoStudyGroups": "No sets have been added to the selected organization.",
+		"selectOwnerOrganizationFirst": "First select the organization of the material.",
+		"studyGroupReset": {
+			"summary": "Series field updated",
+			"detail": "The selection of the series field was cleared because the selected series belongs to a different organization."
+		}
+	},
+	"studyGroup": {
+		"studyGroup": "Series"
+	},
+	"noStudyGroup": "No sets",
+	"addStudyGroup": "Add a series ...",
+	"newStudyGroup": "New series",
+	"study": {
+		"add": "Add material",
+		"new": "New material",
+		"study": "Material",
+		"studies": "Resources",
+		"noStudies": "No material found",
+		"noOrganizationStudies": "No material was found for your organization",
+		"noDatasets": "The dataset has no datasets",
+		"noLinks": "There are no defined links for the material.",
+		"personInRolesLabel": "Related to the material",
+		"noPersonInRoles": "No data related to the material is specified.",
+		"lifecyclePhase": "Life cycle of the material",
+		"confirmRemove": "Are you sure you want to delete the material?",
+		"sidebar": {
+			"study": "Material",
+			"datasetsAndVariables": "Datasets & Variables",
+			"instanceVariables": "variables",
+			"administrativeInformation": "Administrative information"
+		},
+		"relations": {
+			"predecessors": "Predecessors",
+			"successor": "Successor",
+			"successors": "Successors",
+			"predecessor": "Predecessor",
+			"label": "Relations with other datasets",
+			"definedByOtherStudy": "The relationship is defined in the target material",
+			"targetStudy": "The target material",
+			"relationType": "The type of relationship",
+			"addNew": "Add new material ratio",
+			"noStudy": "No material",
+			"noRelations": "Relationships between materials are not defined."
+		},
+		"confirmPublish": "Are you sure you want to publish the material?",
+		"confirmWithdraw": "Are you sure you want to cancel the release of the material?",
+		"confirmReissue": "Are you sure you want to publish the material again?"
+	},
+	"piecesAbbreviation": "pcs",
+	"editor": {
+		"study": {
+			"prefLabel": {
+				"helpText": "<p>If you are describing an annual survey of a larger entity, please also include a year here. The name of the material should be as informative as possible and uniquely identifiable.</ p><p>A colon is written between the main title and sub-header.</p><p>Example 1:</ p><p class=\"example \">Therapy Record</p><p> Example 2:</p><p class=\"example\">Adult Sports Examination 2016</p>"
+			},
+			"altLabel": {
+				"helpText": "<p>Possible commonly used alternative names for the material. For example, names that are widely known or have been previously used. Separate alternate names with a semicolon.</p><p>Example 1:</p><p class = \"example\">Treatment Notification System; Health-Hilmo</p><p>Example 2:</p><p class=\"example\">Artificial Intelligence</p>"
+			},
+			"abbreviation": {
+				"helpText": "<p>A possible, commonly used abbreviation for the material.</p><p>Example 1: </p><p> Example 2:</p><p> Example 2:</ p><p>\"example\">FAR</p>"
+			},
+			"description": {
+				"helpText": "<p>A tight summary of the material. The length of the description is max 1500 characters.</p><p>Explain what the material contains and what purpose, how, where, when and when the material is collected.</p><p>Example: </p> <p class=\"example \">The register of therapies contains information on starting and ending treatment of patients, diagnosis, measures and producers and some other treatments related matters. Additional information on the demanding cardiac patient includes information on the patient and his / her risk assessment (since 2017, only risk information). Additional information on psychiatry includes information on medication, coercion, income, and psychological status assessment.</p>"
+			},
+			"ownerOrganization": {
+				"helpText": "<p>The organization responsible for the current material. You can mention the possible predecessor of the collection point in the material description field.</p><p>If you have a personal record, your organization is a registrar.</p><p></p><p>Adding new organizations and editing them old will be responsible for maintaining the service.</p>"
+			},
+			"ownerOrganizationUnit": {
+				"helpText": "<p>Organizational unit responsible for the data.</p>"
+			},
+			"personInRoles": {
+				"helpText": "<p>Add Person to add a description of a person who already exists in the system. Add new person to add a new person to the system.</p><p>Names of persons are written in full fields.</p><p>Each person associated with the material is marked with the role of the selection list.</p><p>If the same person has multiple roles, a person must be recorded for each role separately.</p><p>If you want a person to appear in the catalog, select the popup. The minimum contact person is significant.</p><p>Roles and their definitions:</p><ol><li>Sample Manager: The Sample Manager is responsible for the sample of the material.</li><li>Registry Officer: The Registry Officer is responsible for the Register / Register as a Substance.</li><li>Author: The author is the author of the material.</li><li>Information handler: The data handler handles the data of the material.</li><li>Data Manager: The Data Manager is responsible for the data manager and the extraction of data.</li><li>Statutory Administrator: The Statistical Officer is responsible for the statistics produced by the material.</li><li>Responsible leader of the study (HetiL): The responsible director of the study is responsible for the management of the study in which the material is collected.</li><li>The Research Person (TVH): The Research Director is responsible for the research where the material was collected.</li><li>Contact Person: The contact person is responsible for questions related to the material.</li></ol>"
+			},
+			"links": {
+				"helpText": "<p>Data-related webpage information. Add additional data links that are relevant to the potential secondary user of the material.</p><p>Example 1:</p><p class=\"example\">Link text: More information on thl.fi web service<br>Link URL: https://www</p><p> Example 2:</p><p class=\"example\">Link text: Research forms in PDF format<br>URL of the link : https://www.thl.fi/en/tutkimus-ja-asiantuntijatyo/vaestotutkimukset/aikuisten-terveys-hyvinvointi-ja-palvelututkimus-ath/miten-ath-tutkimus-tehdaan/lomakkeet</p><p>Example 3:</p><p class=\"example\">Link Text: Research Result Reports on Terveytemme.fi Online Service<br>Link URL: http://www.terveytemme.fi/ath/</p>"
+			},
+			"usageCondition": {
+				"helpText": "<p>Terms of Use define how outsourced material can be accessed. Select the appropriate Terms of Use from the drop down list </p><p>Short definitions:</p><ol><li>The material is openly available.</li><li>The material can be accessed with a license.</li><li>The material can be accessed through a biopurchase license.</li><li>The transfer of material for research purposes or any other utilization through a collaboration agreement is possible. Applications will be evaluated on a case-by-case basis.</li><li>The material is not released at all.</ li></ ol>"
+			},
+			"usageConditionAdditionalInformation": {
+				"helpText": "<p>If necessary, include more information about the terms of use (in text format).</p><p>Example:</p><p class=\"example\">Transfer to research or other exploitation via a possible collaboration agreement. Applications are evaluated on a case-by-case basis.</p>"
+			},
+			"unitType": {
+				"helpText": "<p>Select an appropriate observation unit type or add a new one.</p>"
+			},
+			"numberOfObservationUnits": {
+				"helpText": "<p>Generally, the number of observation units is expressed by typing a precise numeric value.</p><p>Example 1</p><p class=\"example\">32 275</p><p>The number of observation units can also be reported annually. </p><p> Example 2: </p><p class=\"example\">Treatment periods 1 million (in 2015)</p>"
+			},
+			"universe": {
+				"helpText": "<p>The basic set is a whole set of observation units. The basic set is a generalization of the target set. The base set is selected from the selection list. If the appropriate one is not found, specify a new set of population. When defining a new set of population, a geographical limitation is added. Other input or output limits are not used.</p><p>Basic sets are just for service maintenance to be edited.</p><p>Examples:</p><p class=\"example\">Care periods in Finland</p><p class=\"example\">Finland's population aged 20 and over</p><p class=\"example\">Population of Nokia and Kangasala</p><p class=\"example\">Employees in the Province of Southern Finland</p>"
+			},
+			"population": {
+				"prefLabel": {
+					"helpText": "<p>A set of target groups is a set whose content is covered. Fill in the information as accurately as possible: a description of the set of observation units, the geographical and temporal limitations, and possible entry and exit limits.</p><p>Examples:</p><p class=\"example\">Patients in ward and outpatient clinics in Finnish health care in 2015</p><p class=\"example\">Beneficiaries of income support in Southwest Finland in 2014</p><p class=\"example\">Employees in the Province of Southern Finland in 2016</p><p class=\"example\">The permanent population of 20 years of age in Finland in 2017</p><p class=\"example\">Population of Nokia and Kangasala 27.11.2007</p><p class=\"example\">15-79 years old, excluding the inhabitants of Åland at the end of 2007</p>"
+				},
+				"geographicalCoverage": {
+					"helpText": "<p>The territorial coverage determines the geographical coverage of the material at the most accurate level. If necessary, specify exact and accurate spatial data, for example, by coordinates.</p><p>Examples:</p><p class=\"example\">Helsinki</p><p class=\"example\">Whole Finland</p><p class=\"example\">Finland without Åland</p><p class=\"example\">Pelkosenniemi, Ranua, Posio, Kittilä, Sodankylä, Salla, Alatornio, Tervola, Rovaniemi and Pudasjärvi</p> "
+				},
+				"sampleSize": {
+					"helpText": "<p>The sample is a set of observation units that are known to all observation units to have a higher probability of zero choice. In the field, enter the size of the sample as the most accurate number information.</p><p>Example 1:</p><p class=\"example\">25 000</p><p>Example 2:</p><p class=\"example\">The study included 20,908 women</p>"
+				},
+				"loss": {
+					"helpText": "<p>Kato explains the lack of coverage of the material. The field includes all relevant information regarding loss, response activity, and possible loss remedial measures.</p><p>Weak means the absence of complete sample units (individuals or households) from the research material or missing information, \"holes\" in the data of some observation units. The former can be due to the refusal or non-availability of the target (external defect), while the latter is due to the lack of responses in the form due to lack of information or lack of feedback (internal trunk).</p><p>Example 1:</p><p class=\"example\">495</p><p>Example 2:</p><p class=\"example\">Response activity 49%. The effects of non-response have been taken into account by using loss correction factors. The results can thus be generalized in the population of the age of 20 years.</p><p>Example 3:</p><p class=\"example\">Kato 16.0%. Invited 17,561 or 84.0% attended.</p>"
+				}
+			},
+			"referencePeriod": {
+				"helpText": "<p>Reference time refers to the temporal coverage of the material, that is, the time that the data / data set information applies. If the data collection continues, the end date is not needed.</p><p>The reference time is the time that the data in the data refer to, ie the period covered by the data in the data. It does not indicate when the data is encoded, the documents have been put into machine language or the data has been collected. In most cases, the data in the data describes the time of collection, but sometimes the reference date may be different.</p><p>For example, data will be collected in 2017, but the data relates to data related to the recession of the 1990s.</p><p>For example, in 1999, it was possible to gather material in which the examinees recall the life-style of the 1950s.</p>"
+			},
+			"collectionPeriod": {
+				"helpText": "<p>The date of collection means the start and end times of the collection of the material. If the data collection continues, the end date is not needed.</p>"
+			},
+			"lifecyclePhase": {
+				"helpText": "<p>Choose the most appropriate life cycle step from the drop-down menu. The Analysis and Reporting Phase is selected for active use. Even if the data is destroyed, its data will be stored in the data editor (but the data will not be displayed in the catalog).</p><p>Definitions:</p><ol><li>Analysis and Reporting Phase: The data is in active use</li><li>Archived: The material is archived (please specify)</li><li>Dispose of: The material has been disposed of</li><li>Design phase: The material is at the design stage, the data collection has not yet begun</li><li>Data Acquisition: Data collection is in progress</li></ol>"
+			},
+			"conceptsFromScheme": {
+				"helpText": "<p>The keywords describing the core content and format of the material are searched from the ontologies of the Finto service attached to the service in this order: YSO, MeSH, (TERO). When typing a password, the service proposes an alternative ontology.</p><p>Examples:</p><p class=\"example\">health care (YSO)</p><p class=\"example\">registers (YSO)</p><p class=\"example\">treatment periods (TERO)</p>"
+			},
+			"freeConcepts": {
+				"helpText": "<p>This field adds the key content and formatting of the material that is not found on the ontologies. After the word, press ENTER to save the word.</p><p>Example 1:</p><p class=\"example\">Care Register</p><p>Example 2:</p><p class=\"example\">WHOQOL-BREF</p>"
+			},
+			"datasetType": {
+				"helpText": "<p>From the pull-down menu, select the Material Type that best describes your material. You can also choose several types.</p>"
+			},
+			"studyGroup": {
+				"helpText": "<p>For example, the series allows you to combine the same material from different years with the same research. Select one of the existing series or create a new one.</p>"
+			},
+			"studyRelations": {
+				"helpText": "<p>Please indicate here how your material is related to other materials.</p><p>Predecessor: The attached material is the temporal predecessor of this material.</p>"
+			},
+			"comment": {
+				"helpText": "<p>Learn more about the material. NOTE: The comment field information does not appear publicly in the catalog, only for other editor users.</p><p>Example:</p><p class=\"example\">All public hospitals in Finland and health wards are included. Private hospitals are involved in departmental care periods.</p>"
+			}
+		},
+		"studyAdministrative": {
+			"personRegistry": {
+				"helpText": "<p>Does the material have a personal record or not?</p>"
+			},
+			"confidentialityClass": {
+				"helpText": "<p>Information Content Publicity Guidelines Here</p>"
+			},
+			"principlesForPhysicalSecurity": {
+				"helpText": "<p>Physical Protection Principles - Instructions for this</p>"
+			},
+			"principlesForDigitalSecurity": {
+				"helpText": "<p>Digital Protection Principles - Instructions for this</p>"
+			},
+			"dataProcessingPeriod": {
+				"helpText": "<p>Time for computing - instructions here</p>"
+			},
+			"retentionPolicy": {
+				"helpText": "<p>Retention - instructions here</p>"
+			},
+			"retentionPeriod": {
+				"helpText": "<p>Retention time - instructions here</p>"
+			},
+			"groundsForRetention": {
+				"helpText": "<p>Period of storage - Instructions for this</p>"
+			},
+			"nationalArchivesFinlandArchivalDecision": {
+				"helpText": "<p>The National Archives Standing Preservation Decision - Instructions for this</p>"
+			},
+			"existenceForms": {
+				"helpText": "<p>Material Orientation - Instructions here</p>"
+			},
+			"physicalLocation": {
+				"helpText": "<p>Physical location - instructions here</p>"
+			},
+			"systemInRoles": {
+				"helpText": "<p>Information Systems - Instructions here</p>"
+			}
+		},
+		"dataset": {
+			"prefLabel": {
+				"helpText": "<p>The name of this dataset. If you are describing an annual survey of a larger entity, please also include a year here. The name of the dataset should be as informative as possible and uniquely identifiable.</p><p>A colon is entered between the headline and the sub-header. The subtitle is initiated with a small first letter (unless it is a distinguished name).</p><p>Example 1:</p><p class=\"example\">Health Care Records Register</p><p>Example 2:</p><p class=\"example\">Adult Sports Exercise 2016: Submission of cycling</p>"
+			},
+			"altLabel": {
+				"helpText": "<p>Possible commonly used alternate names for the dataset. For example, names with widely known or previously known data sets. Separate alternate names with a semicolon.</p><p>Example:</p><p class=\"example\">Health-Hilmo</p>"
+			},
+			"abbreviation": {
+				"helpText": "<p>A possible, generally used abbreviation for the dataset. Separate alternate abbreviations with a semicolon.</p><p>Example 1:</p><p class=\"example\">Hilmo</p><p>Example 2:</p><p class=\"example\">FAR</p>"
+			},
+			"description": {
+				"helpText": "<p>A tight summary of the data set. The length of the description is max 1500 characters.</p><p>Highlight what the data contains and what purpose, how, where, where and when the data was collected. Please note the fields that will be asked later in the dataset, ie avoid repeating.</p><p>Example:</p><p class=\"example\">The Health Care Records Register contains information on starting and ending treatment, diagnosis, procedures and producers, as well as some other aspects of treatment. Additional information on the demanding cardiac patient includes information on the patient and his / her risk assessment (since 2017, only risk information). Additional information on psychiatry includes information on medication, coercion, income and psychological status.</p>"
+			},
+			"ownerOrganizationUnit": {
+				"helpText": "<p>Organization unit responsible for data set.</p>"
+			},
+			"personInRoles": {
+				"helpText": "<p>Add Person - adds a person's data set to the description of the dataset already found in the system. Add New Person to add a new person to a new data set.</p><p>Names of persons are written in full fields.<p>Each person associated with the data set is given the role of the selection list.</p><p>If the same person has multiple roles, a person must be recorded for each role separately.</p><p>If you want a person to appear in the catalog, select the popup. The minimum contact person is significant.</p><p>Roles and their definitions:</p><ol><li>Sample Manager: The Sample Manager is responsible for the samples belonging to the data set.</li><li>Registry Officer: The Registry Officer is responsible for the data set / registers that are part of it.</li><li>Author: The author is the author of the data set.</li><li>Data processor: Data handler handles data set information.</li><li>Information Manager: The Data Manager responds to the data manager's data and the extraction.</li><li>Statutory Officer: The Statistical Officer is responsible for the statistics produced by the data set.</li><li>Responsible leader of the study (HetiL): The responsible leader of the study is responsible for conducting the research in which the data were collected.</li><li>The person responsible for the research (TVH): The person responsible for the research is responsible for the research in which the data was collected.</li><li>Responsible researcher</li><li>Contact person: The contact person is responsible for questions related to the data set.</li></ol>"
+			},
+			"links": {
+				"helpText": "<p>Data related to web pages. Add additional data links that are relevant to the potential secondary user of the data set. Added to this is the additional data links of the Terms of Service.</p><p>Example 1:</p><p class=\"example\">Link text: More information at thl.fi<br>Linkin URL: https://www.thl.fi/en_US/tilastot/tiedonkeruut/hoitoilmoitusjarjestelma-hilmo</p><p>Example 2:</p><p class=\"example\">Link text: Research forms in pdf format<br>Linkin URL: https://www.thl.fi/fi/tutkimus-ja-asiantuntijatyo/vaestotutkimukset/aikuisten-terveys-hyvinvointi-ja-palvelututkimus-ath/miten-ath-tutkimus-tehdaan/lomakkeet</p><p>Example 3:</p><p class=\"example\">Link text: Research report reports at Terveytämme.fi web service<br>Linkin URL: http://www.terveytemme.fi/ath/</p>"
+			},
+			"usageCondition": {
+				"helpText": "<p>The terms of use define how an outsider can access the data set. Select the appropriate Terms of Use from the drop down list. In the following additional information box, you can find out more about the terms and conditions of the data set.</p><p>Short definitions:</p><ol><li>Data sets are openly available.</li><li>The data set can be accessed with a license.</li><li>The data set can be accessed by a biopurchase license.</li><li>The transfer of a data set for research purposes or other utilization through a cooperation agreement is possible. Applications will be assessed on a case-by-case basis.</li><li>The data set will not be released at all.</li></ol>"
+			},
+			"usageConditionAdditionalInformation": {
+				"helpText": "<p>If necessary, write down more information about the terms of use of the material (in text format). Additional links are added to the Links field.</p><p>Exapmle:</p><p class=\"example\">Transfer to research or other exploitation via a cooperation agreement. Applications will be assessed on a case-by-case basis.</p>"
+			},
+			"unitType": {
+				"helpText": "<p>Select an appropriate observation unit type or add a new one.</p><p>The type of dataset observation unit is inherited by variables. If desired, the variable-specific observation unit may be changing in the variable description.</p><p>If the datasets associated with the data have different observation unit types, the type of observation unit of the material is marked as the main.</p><p>Observation unit types are only for service maintenance to be editable.</p>"
+			},
+			"numberOfObservationUnits": {
+				"helpText": "<p>Generally, the number of detector units of a data set is expressed by typing a precise numeric value.</p><p>Example:</p><p class=\"example\">32 275</p>"
+			},
+			"universe": {
+				"helpText": "<p>The basic set is a whole set of observation units. The basic set is a generalization of the target set. The base set is selected from the selection list. If the appropriate one is not found, specify a new set of population. When defining a new set of population, a geographical limitation is added. Other input or output limits are not used.</p><p>Base sets are just for service maintenance to be editable.</p><p>Examples:</p><p class=\"example\">Care periods in Finland</p><p class=\"example\">Finland's population aged 20 and over</p><p class=\"example\">Population of Nokia and Kangasala</p><p class=\"example\">Employees in the Province of Southern Finland</p>"
+			},
+			"population": {
+				"prefLabel": {
+					"helpText": "<p>The target set is a set that the data covers. Fill in the information as accurately as possible: a description of the set of observation units, the geographical and temporal limitations, and possible entry and exit limits</p><p>Examples:</p><p class=\"example\">Patients in ward and outpatient clinics in Finnish health care in 2015</p><p class=\"example\">Beneficiaries of income support in Southwest Finland in 2014</p><p class=\"example\">Employees in the Province of Southern Finland in 2016</p><p class=\"example\">The permanent population of 20 years of age in Finland in 2017</p><p class=\"example\">Population of Nokia and Kangasala 27.11.2007</p><p class=\"example\">15-79 years old, excluding the inhabitants of Åland at the end of 2007.</p>"
+				},
+				"geographicalCoverage": {
+					"helpText": "<p>The territorial coverage determines the geographical coverage of the dataset as accurately as possible. If necessary, specify exact and accurate spatial data, for example, by coordinates.</p><p>Examples:</p><p class=\"example\">Helsinki</p><p class=\"example\">Whole Finland</p><p class=\"example\">Finland without Åland</p><p class=\"example\">Pelkosenniemi, Ranua, Posio, Kittilä, Sodankylä, Salla, Alatornio, Tervola, Rovaniemi and Pudasjärvi.</p>"
+				},
+				"sampleSize": {
+					"helpText": "<p>The sample is a set of observation units that are known to all observation units to have a higher probability of zero choice. In the field, enter the size of the sample as the most accurate number information.</p><p>Example 1:</p><p class=\"example\">25 000</p><p>Example 2:</p><p class=\"example\">The study included 20,908 women</p>"
+				},
+				"loss": {
+					"helpText": "<p>Kato explains the lack of coverage of the data set. The field includes all relevant information regarding loss, response activity, and possible loss remedial measures.</p><p>Weak means the absence of complete sample units (individuals or households) from the research material or missing information, \"reikiä\" in the data of some observation units. The latter can be due to the refusal or non-availability of target persons (external trunk), while the latter is due to the lack of responses on the form due to lack of information or lack of response (internal trunk).</p><p>Example 1:</p><p class=\"example\">495</p><p>Example 2:</p><p class=\"example\">Response activity 49%. The effects of non-response have been taken into account by using loss correction factors. The results can thus be generalized in the population of the age of 20 years.</p><p>Example 3:</p><p class=\"example\">Kato 16.0%. Invited 17,561 or 84.0% attended.</p>"
+				}
+			},
+			"referencePeriod": {
+				"helpText": "<p>Reference time refers to the temporal coverage of a dataset, that is, the time that data set information applies. If the data collection continues, the end date is not needed.</p><p>The reference time is the time to which data set data refers, i.e., the time period processed by data set data. It does not indicate when the data is encoded, the documents have been put into machine language or the data has been collected. In most cases, the dataset data describes the collection date, but sometimes the reference dataset reference may be the second.</p><p>For example, data will be collected in 2017, but the data relates to data related to the recession of the 1990s.</p><p>For example, in 1999, it was possible to gather material in which the examinees recall the life-style of the 1950s.</p><p>If both the start and end date fields are left blank, the reference date is inherited from the data in the data.</p>"
+			},
+			"collectionPeriod": {
+				"helpText": "<p>Harvest Time means the start and end times of a collection of data sets. If the data collection continues, the end date is not needed.</p>"
+			},
+			"lifecyclePhase": {
+				"helpText": "<p>Choose the most appropriate life cycle step from the drop-down menu. The Analysis and Reporting Phase is selected for the active data set. Although data is being deleted, its data will be stored in the data editor (but data will not be displayed in the catalog).</p><p>Definitions:</p><ol><li>Analysis and Reporting Phase: Data sets are active</li><li>Archived: Data sets are archived</li><li>Destroyed: Datasets have been deleted</li><li>Design phase: Data sets are in the design phase, data collection has not yet begun</li><li>Data Acquisition: Data collection data collection is in progress</li></ol>"
+			},
+			"conceptsFromScheme": {
+				"helpText": "<p>The keywords describing the key content and format of the dataset are searched from the ontologies of the Finto service that are attached to the service in this order: YSO, MeSH, (TERO). When typing a password, the service proposes an alternative ontology.</p><p>Examples:</p><p class=\"example\">health care (YSO)</p><p class=\"example\">registers (YSO)</p><p class=\"example\">treatment periods (TERO)</p>"
+			},
+			"freeConcepts": {
+				"helpText": "<p>This field adds the key content and formatting of the material that is not found on the ontologies. After the word, press ENTER to save the word.</p><p>Example 1:</p><p class=\"example\">Care Register</p><p>Example 2:</p><p class=\"example\">WHOQOL-BREF</p>"
+			},
+			"datasetType": {
+				"helpText": "<p>From the pull-down menu, select the Material Type that best describes your material. You can also choose several types.</p>"
+			},
+			"datasetRelations": {
+				"helpText": "<p>Please indicate here how data is associated with other data sets.</p><p>Predecessor: Attached data is the time predecessor for this data set.</p>"
+			},
+			"comment": {
+				"helpText": "<p>Learn more about the data set. NOTE: The comment field information does not appear publicly in the catalog, only for other editor users.</p><p>Example:</p><p class=\"example\">All public hospitals in Finland and health wards are included. Private hospitals are involved in departmental care periods.</p>"
+			}
+		},
+		"instanceVariable": {
+			"variable": {
+				"tagline": "The concept variable combines the same property or individual variables that describe the subject in the different materials.",
+				"readMoreLink": "Read the help",
+				"helpText": "<p>The handwriting variable allows scientists to find variables that examine each individual phenomenon (eg smoking) from a different point of view.</p><p>No manipulative variables are required for the potential administrative variables (such as material numbers).</p><p>Examples:</p><p class=\"example\">Ikä<p class=\"example\">Smoking<p class=\"example\">Pregnancy<p>The handwriting variables are only editable for service maintenance.</p>"
+			},
+			"prefLabel": {
+				"helpText": "<p>Variable name.</p><p>Example:</p><p class=\"example\">Age</p>"
+			},
+			"technicalName": {
+				"helpText": "<p>The technical name is often the name of the variable in the data file.</p><p>Example:</p><p class=\"example\">ika_2017</p>"
+			},
+			"description": {
+				"helpText": "<p>Name a more detailed description of the variable.</p><p>Example:</p><p class=\"example\">Age of person over the years</p>"
+			},
+			"partOfGroup": {
+				"helpText": "<p>The group to which the variable belongs.</p><p>Example:</p><p class=\"example\">background information</p>"
+			},
+			"conceptsFromScheme": {
+				"helpText": "<p>The keywords (max. 5) describing the main content and format of the variable are searched from the ontologies of the Finto service attached to the service in this order: YSO, MeSH, (TERO). When typing a password, the service proposes an alternative ontology.</p><p>Example:</p><p class=\"example\">age (YSO), youth (YSO), old age (YSO)</p><p>When choosing the facts, consider the difference between the more general and exact description of the variables in data and data sets.</p>"
+			},
+			"freeConcepts": {
+				"helpText": "<p>Free words describing the variable that are not found on the Finto ontologies (max 5 kpl)</p><p>Example:</p><p class=\"example\">RAI</p>"
+			},
+			"referencePeriod": {
+				"helpText": "<p>The reference date is the time that the variable contains.</p><p>Add the start date and end date of the reference date.</p><p>If both the start and end date fields are left blank, the reference date is inherited from data set or material data.</p>"
+			},
+			"valueDomainType": {
+				"helpText": "<p>Select the variable value region type.</p><p>Examples, continuous:</p><p class=\"example\">time</p><p class=\"example\">length</p><p class=\"example\">energy consumption</p><p>Example, classified:</p><p class=\"example\">Hilmo - the recipient of the visit</p>"
+			},
+			"quantity": {
+				"helpText": "<p>Select the amount used in the variable from the drop-down menu or click the missing item in the menu. Click to enlarge the size button.</p>"
+			},
+			"unit": {
+				"helpText": "<p>Select the unit of measure used in the pull-down menu from the drop-down menu, or click the Add Measurement Unit button in the missing measurement unit.</p>"
+			},
+			"valueRange": {
+				"helpText": "<p>Add to this the minimum and maximum value of the variable.</p>"
+			},
+			"codeList": {
+				"helpText": "<p>The code contains the codes used in the variables and their values.</p><p>Select the code or rating used in the variable from the drop-down list. If you do not find the code / rating you want, add the code either as a reference elsewhere, such as Code Listing, or enter the codepage you use with the code itself.</p><p>Codes are only for service maintenance that can be edited.</p>"
+			},
+			"missingValues": {
+				"helpText": "<p>In the field, mark the variable used for the missing data code.</p><p>Example:</p><p class=\"example\">the measurement result is missing</p>"
+			},
+			"defaultMissingValue": {
+				"helpText": "<p>Enter the code for missing data in the data field.</p><p>Example:</p><p class=\"example\">-1</p>"
+			},
+			"qualityStatement": {
+				"helpText": "<p>This field includes all relevant information that may influence the interpretation of the data: variability of the variable and substantial changes in time.</p>"
+			},
+			"source": {
+				"helpText": "<p>Variable data source for example in composite material. Select a data source for the variable if the variable originates from another data set within the system.</p><p>Example:</p><p class=\"example\">Health Care Records Register</p>"
+			},
+			"sourceDescription": {
+				"helpText": "<p>Enter this data source as a free text if the variable originates from another file or data set that is not described in the system.</p><p>Example:</p><p class=\"example\">population register center</p>"
+			},
+			"dataType": {
+				"helpText": "<p>Variable Datatype.</p><p>Example 1:</p><p class=\"example\">integer</p><p>Example 2:</p><p class=\"example\">text</p>"
+			},
+			"dataFormat": {
+				"helpText": "<p>Here's an example or \"tietotyyppitarkennuksen\" to describe in more detail what format the variable is. For example, in the field of the date type field, the field could read <span class=\"example\">30.8.2017</span>or<span class=\"example\">day.month.year</span>.</p>"
+			},
+			"unitType": {
+				"helpText": "<p>Select a suitable observation unit from the pull-down menu or add a new one.</p><p>The type of observation unit of a data set / data set is inherited by variables. If desired, it can be changed at the variable level.</p><p>Observation unit types are just a service update for service maintenance.</p>"
+			},
+			"instanceQuestions": {
+				"helpText": "<p>Question related to the variable that is not labeled as variable name.</p><p>The questionnaires are data-specific so you can use the same query question if you have multiple variables. Get an existing query question inside the data set or add a new query question.</p>"
+			}
+		},
+		"codeList": {
+			"referenceId": {
+				"helpText": "<p>Identifier of code or rating.</p><p>Example:</p><p class=\"example\">1.2.246.537.6.229</p>"
+			},
+			"prefLabel": {
+				"helpText": "<p>Name of code or rating.</p><p>Example:</p><p class=\"example\">Hilmo - The Visitor of the Visit</p>"
+			},
+			"description": {
+				"helpText": "<p>What rating describes and the particularities of the rating.</p>"
+			},
+			"owner": {
+				"helpText": "<p>Who codes / classifies.</p>"
+			},
+			"codeItems": {
+				"helpText": "<p>Values for the variable codes and codes.</p><p>Example 1:</p><p class=\"example\">Code: 1<br>Value: Male</p><p>Example 2:</p><p class=\"example\">Code: 020<br>Value: Aka</p>"
+			}
+		},
+		"EditorStudyViewComponent": {
+			"publishButton": {
+				"label": "Publish",
+				"helpText": "<p>Publish button material description is published openly in the Material Catalog. Publishing can be canceled with the Peru release button.</p><p>NOTE: If you make changes to the description after the release and also want to update them in the Material Catalog, click the Publish Again button.</p>"
+			},
+			"unpublishButton": {
+				"label": "Peru publication"
+			},
+			"reissueButton": {
+				"label": "Publish again"
+			}
+		},
+		"EditorStudyDatasetsComponent": {
+			"header": "Data Set Databases",
+			"viewHelpText": "<p>Add new data to the data by clicking the Add Data button. You can also copy the existing data set to the base data for the new data set by clicking the Copy button at the desired data set.</p><p>NOTE 1: The variables of the material are described below the dataset, so if you want to add variables to the data, add the data first.</p><p>NOTE 2: The data transfer function does not copy data set variables to a new data set.</p><p>NOTE 3: Only data sets are imported to the editor <em>descriptions of</em>, not the data files themselves.</p>",
+			"addDatasetButton": {
+				"label": "Add data"
+			}
+		},
+		"DatasetInstanceVariablesViewComponent": {
+			"viewHelpText": "<p>You can add variables to the data set from the CSV file by importing or editing the user interface.</p><p>For more detailed instructions on importing a CSV file, see the Documentation Documentation: <a href=\"https://yhteistyotilat.fi/wiki08/x/4CywAg\" target=\"_blank\">Import variables from a CSV file</a></p><p>Download Variables In CSV File, you can download the existing variables in the data set in CSV format.</p>"
+		},
+		"searchInstanceVariable": {
+			"searchFieldLabel": "Search for variables",
+			"searchFieldPlaceholder": "Find variables by name, description, or keyword...",
+			"foundInDataset": "The data set contains",
+			"noVariable": "No concept variable",
+			"noReferencePeriod": "Not defined",
+			"searchSummary": "A search result {{resultCount}} was found "
+		},
+		"variableData": {
+			"instanceVariableColumnHeading": "Variable",
+			"datasetColumnHeading": "Dataset",
+			"studyColumnHeading": "Material",
+			"noStudy": "No related material",
+			"noDataset": "No related data set"
+		}
+	},
+	"noSystem": "No system",
+	"systemInRoles": {
+		"label": "information systems",
+		"system": "Information Systems",
+		"role": "Role",
+		"linkToSystemDescription": "Link to system description",
+		"add": "Add a system",
+		"addNew": "Add a new system",
+		"noSystemsInRoles": "Information systems are not included in the data",
+		"noLink": "No link"
+	},
+
+	"editSystemModal": {
+		"newSystem": "New system",
+		"externalLink": "Link to external system description",
+		"noOwnerOrganization": "The material does not have an organization, define the organization for the material"
+	},
+	"changedAfterPublish": "Edited after the release",
+	"addNewOrganizationUnit": "Create a new organizational unit",
+	"editOrganizationUnit": "Edit the organizational unit",
+	"newOrganizationUnit": "New organizational unit",
+	"editedOrganizationUnit": "Editable Organizational Unit",
+	"editOrganization": "Edit your organization",
+	"editedOrganization": "Editable organization",
+	"import": {
+		"csv": {
+			"error": {
+				"missingRequiredColumn": {
+					"prefLabel": "the prefLabel column is missing"
+				},
+				"missingRequiredValue": {
+					"emptyField": "value missing",
+					"fieldMissingFromDb": "no value can be found in the database",
+					"rowOmitted": "Value missing. Line passed"
+				},
+				"noEncoding": "The CSV file is missing a character set",
+				"unsupportedEncoding": "The CSV file's character set is invalid",
+				"unknown": "An unknown error occurred while importing CSV"
+			},
+			"warn": {
+				"ambiguousCodeList": "the list is unclear",
+				"ambiguousUnitSymbol": "the symbol for the unit of measurement is unclear",
+				"codeItemWrongFormat": "the field is in the wrong format. The correct format is: 'Code1': 'Value1', 'Code2': 'Value2', ...",
+				"invalidDecimalNumber": "the decimal number field is incorrect",
+				"invalidIsoDate": "the date field is in the wrong format. The correct format is: vvvv-kk-pp",
+				"missingRequiredValue": "Value missing"
+			}
+		}
+	},
+	"confirmOrganizationUnitDelete": "Are you sure you want to delete the organizational unit?",
+	"confirmPersonDelete": "Are you sure you want to delete a person?"
+}
