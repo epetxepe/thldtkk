@@ -38,8 +38,8 @@ export class AppComponent implements OnInit {
     private currentUserService: CurrentUserService,
     private breadcrumbService: BreadcrumbService
   ) {
-    translateService.setDefaultLang('fi');
-    translateService.use('fi');
+    translateService.setDefaultLang('en');
+    translateService.use('en');
   }
 
   ngOnInit() {
