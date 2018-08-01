@@ -9,6 +9,10 @@
         {
           "lang": "fi",
           "value": "Hoitojakso tai -käynti"
+        },
+        {
+          "lang": "en",
+          "value": "Care period or visit"
         }
       ]
     }
@@ -23,12 +27,20 @@
         {
           "lang": "fi",
           "value": "Henkilö, yleensä ihminen"
+        },
+        {
+          "lang": "en",
+          "value": "Person, usually human"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Henkilö"
+        },
+        {
+          "lang": "en",
+          "value": "Person"
         }
       ]
     }
@@ -43,13 +55,22 @@
         {
           "lang": "fi",
           "value": "Henkilön yksittäisen nivelen primaari implantointi tai vanhan implantoinnin korjausleikkaus. Yksikäsitteinen avain koostuu henkilön tunnisteesta, leikkauspäivämäärästä, nivelestä (lonkka, polvi, olkapää, kyynärpää, nilkka, ranne jne.), puoleisuudesta (vasen vs. oikea) sekä leikkaushistoriasta (primaari/uusinta). On mahdollista, joskin harvinaista, että leikkaus joudutaan uusimaan saman päivän kuluessa."
+        },
+        {
+          "lang": "en",
+          "value": "Primary implantation of a single joint of an individual or an implantation remedy for old implants. The unambiguous key consists of a person's identifier, cut-off date, joint (hip, knee, shoulder, elbow, ankle, wrist, etc.), side (left vs. right) and cutting history (primary / new). It is possible, though uncommon, that surgery should be renewed within the same day."
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Implantointileikkaus"
+        },
+        {
+          "lang": "en",
+          "value": "Implant Surgery"
         }
+
       ]
     }
   },
@@ -63,7 +84,12 @@
         {
           "lang": "fi",
           "value": "Selkäkirurginen leikkaus"
+        },
+        {
+          "lang": "en",
+          "value": "Back surgery surgery"
         }
+
       ]
     }
   },
@@ -77,7 +103,12 @@
         {
           "lang": "fi",
           "value": "Hoitojakso"
+        },
+        {
+          "lang": "en",
+          "value": "The course of treatment"
         }
+
       ]
     }
   },
@@ -91,13 +122,23 @@
         {
           "lang": "fi",
           "value": "Esim. patologian, kuvantamisen tai laboratorion tutkimus."
+        },
+        {
+          "lang": "en",
+          "value": "For example, study of pathology, imaging or laboratory."
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Potilaaseen kohdistuva tutkimus"
+        },
+        {
+          "lang": "en",
+          "value": "Patient research"
         }
+
       ]
     }
   },
@@ -111,7 +152,12 @@
         {
           "lang": "fi",
           "value": "Diagnoosikirjaus"
+        },
+        {
+          "lang": "en",
+          "value": "Diagnostic Logging"
         }
+
       ]
     }
   },
@@ -125,7 +171,12 @@
         {
           "lang": "fi",
           "value": "Hoitotapahtuma"
+        },
+        {
+          "lang": "en",
+          "value": "care Event"
         }
+
       ]
     }
   },
@@ -139,13 +190,23 @@
         {
           "lang": "fi",
           "value": "Useammasta henkilöstä koostuva ihmisjoukko"
+        },
+        {
+          "lang": "en",
+          "value": "A multitude of people"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Perhekunta"
+        },
+        {
+          "lang": "en",
+          "value": "Household"
         }
+
       ]
     }
   },
@@ -159,12 +220,21 @@
         {
           "lang": "fi",
           "value": "Yritys"
+        },
+        {
+          "lang": "en",
+          "value": "Company"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Yritys"
+        },
+        {
+          "lang": "en",
+          "value": "Company"
         }
       ]
     }
@@ -179,13 +249,23 @@
         {
           "lang": "fi",
           "value": "Bakteeri"
+        },
+        {
+          "lang": "en",
+          "value": "Bacterial"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Bakteeri"
+        },
+        {
+          "lang": "en",
+          "value": "Bacterial"
         }
+
       ]
     }
   },
@@ -199,12 +279,20 @@
         {
           "lang": "fi",
           "value": "Yhteisö"
+        },
+        {
+          "lang": "en",
+          "value": "Community"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "Yhteisö"
+        },
+        {
+          "lang": "en",
+          "value": "Community"
         }
       ]
     }
@@ -219,7 +307,12 @@
         {
           "lang": "fi",
           "value": "aika"
+        },
+        {
+          "lang": "en",
+          "value": "time"
         }
+
       ]
     }
   },
@@ -233,7 +326,12 @@
         {
           "lang": "fi",
           "value": "teho"
+        },
+        {
+          "lang": "en",
+          "value": "power"
         }
+
       ]
     }
   },
@@ -247,6 +345,10 @@
         {
           "lang": "fi",
           "value": "raha, valuutta"
+        },
+        {
+          "lang": "en",
+          "value": "money, currency"
         }
       ]
     }
@@ -261,6 +363,10 @@
         {
           "lang": "fi",
           "value": "pituus (korkeus, leveys, syvyys)"
+        },
+        {
+          "lang": "en",
+          "value": "length (height, width, depth)"
         }
       ]
     }
@@ -275,7 +381,12 @@
         {
           "lang": "fi",
           "value": "massa (paino)"
+        },
+        {
+          "lang": "en",
+          "value": "mass (weight)"
         }
+
       ]
     }
   },
@@ -289,6 +400,10 @@
         {
           "lang": "fi",
           "value": "tilavuus"
+        },
+        {
+          "lang": "en",
+          "value": "volume"
         }
       ]
     }
@@ -303,7 +418,12 @@
         {
           "lang": "fi",
           "value": "lämpötila"
+        },
+        {
+          "lang": "en",
+          "value": "temperature"
         }
+
       ]
     }
   },
@@ -317,7 +437,12 @@
         {
           "lang": "fi",
           "value": "pinta-ala"
+        },
+        {
+          "lang": "en",
+          "value": "area"
         }
+
       ]
     }
   },
@@ -331,7 +456,12 @@
         {
           "lang": "fi",
           "value": "nopeus"
+        },
+        {
+          "lang": "en",
+          "value": "speed"
         }
+
       ]
     }
   },
@@ -345,7 +475,12 @@
         {
           "lang": "fi",
           "value": "kiihtyvyys"
+        },
+        {
+          "lang": "en",
+          "value": "acceleration"
         }
+
       ]
     }
   },
@@ -359,6 +494,10 @@
         {
           "lang": "fi",
           "value": "konsentraatio"
+        },
+        {
+          "lang": "en",
+          "value": "concentration"
         }
       ]
     }
@@ -373,7 +512,12 @@
         {
           "lang": "fi",
           "value": "paine"
+        },
+        {
+          "lang": "en",
+          "value": "pressure"
         }
+
       ]
     }
   },
@@ -387,7 +531,12 @@
         {
           "lang": "fi",
           "value": "jännitys"
+        },
+        {
+          "lang": "en",
+          "value": "tension"
         }
+
       ]
     }
   },
@@ -401,7 +550,13 @@
         {
           "lang": "fi",
           "value": "kimmokerroin"
+        },
+        {
+          "lang": "en",
+          "value": "modulus of elasticity"
         }
+
+
       ]
     }
   },
@@ -415,7 +570,12 @@
         {
           "lang": "fi",
           "value": "energia"
+        },
+        {
+          "lang": "en",
+          "value": "energy"
         }
+
       ]
     }
   },
@@ -429,6 +589,10 @@
         {
           "lang": "fi",
           "value": "jännite"
+        },
+        {
+          "lang": "en",
+          "value": "voltage"
         }
       ]
     }
@@ -443,7 +607,12 @@
         {
           "lang": "fi",
           "value": "taajuus"
+        },
+        {
+          "lang": "en",
+          "value": "frequency"
         }
+
       ]
     }
   },
@@ -457,7 +626,12 @@
         {
           "lang": "fi",
           "value": "verenpaine"
+        },
+        {
+          "lang": "en",
+          "value": "blood pressure"
         }
+
       ]
     }
   },
@@ -471,11 +645,19 @@
         {
           "lang": "fi",
           "value": "J"
+        },
+        {
+          "lang": "en",
+          "value": "J"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
+          "value": "joule"
+        },
+        {
+          "lang": "en",
           "value": "joule"
         }
       ]
@@ -489,14 +671,23 @@
     "properties": {
       "symbol": [
         {
-          "lang": "",
+          "lang": "fi",
+          "value": "m"
+        },
+        {
+          "lang": "en",
           "value": "m"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "metri"
+        },
+        {
+          "lang": "en",
+          "value": "metre"
         }
       ]
     }
@@ -509,7 +700,11 @@
     "properties": {
       "symbol": [
         {
-          "lang": "",
+          "lang": "fi",
+          "value": "kg"
+        },
+        {
+          "lang": "en",
           "value": "kg"
         }
       ],
@@ -517,7 +712,12 @@
         {
           "lang": "fi",
           "value": "kilogramma"
+        },
+        {
+          "lang": "en",
+          "value": "kilogram"
         }
+
       ]
     }
   },
@@ -531,12 +731,21 @@
         {
           "lang": "fi",
           "value": "km"
+        },
+        {
+          "lang": "en",
+          "value": "km"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "kilometri"
+        },
+        {
+          "lang": "en",
+          "value": "kilometre"
         }
       ]
     }
@@ -551,12 +760,20 @@
         {
           "lang": "fi",
           "value": "kWh"
+        },
+        {
+          "lang": "en",
+          "value": "kWh"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "kilowattitunti"
+        },
+        {
+          "lang": "en",
+          "value": "kilowatt-hour"
         }
       ]
     }
@@ -571,13 +788,23 @@
         {
           "lang": "fi",
           "value": "MWh"
+        },
+        {
+          "lang": "en",
+          "value": "MWh"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "megawattitunti"
+        },
+        {
+          "lang": "en",
+          "value": "megawatt hour"
         }
+
       ]
     }
   },
@@ -591,12 +818,21 @@
         {
           "lang": "fi",
           "value": "t"
+        },
+        {
+          "lang": "en",
+          "value": "t"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "tonni, tuhat kilogrammaa"
+        },
+        {
+          "lang": "en",
+          "value": "tonne, one thousand kilograms"
         }
       ]
     }
@@ -611,13 +847,22 @@
         {
           "lang": "fi",
           "value": "W"
+        },
+        {
+          "lang": "en",
+          "value": "W"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "watti"
+        },
+        {
+          "lang": "en",
+          "value": "watt"
         }
+
       ]
     }
   },
@@ -631,13 +876,23 @@
         {
           "lang": "fi",
           "value": "cm"
+        },
+        {
+          "lang": "en",
+          "value": "cm"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "senttimetri"
+        },
+        {
+          "lang": "en",
+          "value": "centimeter"
         }
+
       ]
     }
   },
@@ -651,13 +906,23 @@
         {
           "lang": "fi",
           "value": "mm"
+        },
+        {
+          "lang": "en",
+          "value": "mm"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "millimetri"
+        },
+        {
+          "lang": "en",
+          "value": "millimeter"
         }
+
       ]
     }
   },
@@ -671,13 +936,23 @@
         {
           "lang": "fi",
           "value": "v"
+        },
+        {
+          "lang": "en",
+          "value": "v"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "vuosi"
+        },
+        {
+          "lang": "en",
+          "value": "year"
         }
+
       ]
     }
   },
@@ -691,13 +966,24 @@
         {
           "lang": "fi",
           "value": "€"
+        },
+        {
+          "lang": "en",
+          "value": "€"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "euro"
+        },
+        {
+          "lang": "en",
+          "value": "euro"
         }
+
+
       ]
     }
   },
@@ -711,12 +997,20 @@
         {
           "lang": "fi",
           "value": "min"
+        },
+        {
+          "lang": "en",
+          "value": "min"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "minuutti"
+        },
+        {
+          "lang": "en",
+          "value": "minute"
         }
       ]
     }
@@ -731,12 +1025,20 @@
         {
           "lang": "fi",
           "value": "cal"
+        },
+        {
+          "lang": "en",
+          "value": "cal"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "kalori"
+        },
+        {
+          "lang": "en",
+          "value": "calorie"
         }
       ]
     }
@@ -751,13 +1053,24 @@
         {
           "lang": "fi",
           "value": "oz"
+        },
+        {
+          "lang": "en",
+          "value": "oz"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "unssi"
+        },
+        {
+          "lang": "en",
+          "value": "ounce"
         }
+
+
       ]
     }
   },
@@ -771,12 +1084,21 @@
         {
           "lang": "fi",
           "value": "gal"
+        },
+        {
+          "lang": "en",
+          "value": "gal"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "gallona"
+        },
+        {
+          "lang": "en",
+          "value": "gallon"
         }
       ]
     }
@@ -791,13 +1113,22 @@
         {
           "lang": "fi",
           "value": "Pa"
+        },
+        {
+          "lang": "en",
+          "value": "Pa"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "pascal"
+        },
+        {
+          "lang": "en",
+          "value": "pascal"
         }
+
       ]
     }
   },
@@ -811,13 +1142,23 @@
         {
           "lang": "fi",
           "value": "E12/l"
+        },
+        {
+          "lang": "en",
+          "value": "E12/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "biljoonaa yksikköä per litra"
+        },
+        {
+          "lang": "en",
+          "value": "trillion units per liter"
         }
+
       ]
     }
   },
@@ -831,12 +1172,21 @@
         {
           "lang": "fi",
           "value": "l"
+        },
+        {
+          "lang": "en",
+          "value": "l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "litra"
+        },
+        {
+          "lang": "en",
+          "value": "litre"
         }
       ]
     }
@@ -851,12 +1201,21 @@
         {
           "lang": "fi",
           "value": "ml"
+        },
+        {
+          "lang": "en",
+          "value": "ml"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "millilitra"
+        },
+        {
+          "lang": "en",
+          "value": "millilitre"
         }
       ]
     }
@@ -871,12 +1230,20 @@
         {
           "lang": "fi",
           "value": "dl"
+        },
+        {
+          "lang": "en",
+          "value": "dl"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "desilitra"
+        },
+        {
+          "lang": "en",
+          "value": "decilitre"
         }
       ]
     }
@@ -891,13 +1258,23 @@
         {
           "lang": "fi",
           "value": "m²"
+        },
+        {
+          "lang": "en",
+          "value": "m²"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "neliömetri"
+        },
+        {
+          "lang": "en",
+          "value": "square meter"
         }
+
       ]
     }
   },
@@ -911,12 +1288,21 @@
         {
           "lang": "fi",
           "value": "m³"
+        },
+        {
+          "lang": "en",
+          "value": "m³"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "kuutiometri"
+        },
+        {
+          "lang": "en",
+          "value": "cubic metre"
         }
       ]
     }
@@ -931,12 +1317,21 @@
         {
           "lang": "fi",
           "value": "km/h"
+        },
+        {
+          "lang": "en",
+          "value": "km/h"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "kilometriä tunnissa"
+        },
+        {
+          "lang": "en",
+          "value": "kilometers per hour"
         }
       ]
     }
@@ -951,13 +1346,22 @@
         {
           "lang": "fi",
           "value": "m/s"
+        },
+        {
+          "lang": "en",
+          "value": "m/s"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "metriä sekunnissa"
+        },
+        {
+          "lang": "en",
+          "value": "metres per second"
         }
+
       ]
     }
   },
@@ -971,12 +1375,20 @@
         {
           "lang": "fi",
           "value": "m/s²"
+        },
+        {
+          "lang": "en",
+          "value": "m/s²"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "metriä per sekunnin neliö"
+        },
+        {
+          "lang": "en",
+          "value": "metres per second square"
         }
       ]
     }
@@ -991,12 +1403,21 @@
         {
           "lang": "fi",
           "value": "ft"
+        },
+        {
+          "lang": "en",
+          "value": "ft"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "jalka"
+        },
+        {
+          "lang": "en",
+          "value": "foot"
         }
       ]
     }
@@ -1011,13 +1432,23 @@
         {
           "lang": "fi",
           "value": "a"
+        },
+        {
+          "lang": "en",
+          "value": "a"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "aari"
+        },
+        {
+          "lang": "en",
+          "value": "extreme"
         }
+
       ]
     }
   },
@@ -1031,12 +1462,21 @@
         {
           "lang": "fi",
           "value": "ha"
+        },
+        {
+          "lang": "en",
+          "value": "ha"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "hehtaari"
+        },
+        {
+          "lang": "en",
+          "value": "hectare"
         }
       ]
     }
@@ -1051,12 +1491,21 @@
         {
           "lang": "fi",
           "value": "bar"
+        },
+        {
+          "lang": "en",
+          "value": "bar"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "baari"
+        },
+        {
+          "lang": "en",
+          "value": "bar"
         }
       ]
     }
@@ -1071,12 +1520,21 @@
         {
           "lang": "fi",
           "value": "mmol/l"
+        },
+        {
+          "lang": "en",
+          "value": "mmol/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "millimoolia per litra"
+        },
+        {
+          "lang": "en",
+          "value": "millimoles per litre"
         }
       ]
     }
@@ -1091,13 +1549,23 @@
         {
           "lang": "fi",
           "value": "g/l"
+        },
+        {
+          "lang": "en",
+          "value": "g/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "grammaa per litra"
+        },
+        {
+          "lang": "en",
+          "value": "grams per litre"
         }
+
       ]
     }
   },
@@ -1111,13 +1579,23 @@
         {
           "lang": "fi",
           "value": "%"
+        },
+        {
+          "lang": "en",
+          "value": "%"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "prosentti"
+        },
+        {
+          "lang": "en",
+          "value": "percentage"
         }
+
       ]
     }
   },
@@ -1131,13 +1609,23 @@
         {
           "lang": "fi",
           "value": "pmol/l"
+        },
+        {
+          "lang": "en",
+          "value": "pmol/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "pikomoolia per litra"
+        },
+        {
+          "lang": "en",
+          "value": "picomole per liter"
         }
+
       ]
     }
   },
@@ -1151,12 +1639,20 @@
         {
           "lang": "fi",
           "value": "fl"
+        },
+        {
+          "lang": "en",
+          "value": "fl"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "femtolitra"
+        },
+        {
+          "lang": "en",
+          "value": "femtolitres"
         }
       ]
     }
@@ -1171,11 +1667,20 @@
         {
           "lang": "fi",
           "value": "kPa"
+        },
+        {
+          "lang": "en",
+          "value": "kPa"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
+          "value": "kilopascal"
+        },
+        {
+          "lang": "en",
           "value": "kilopascal"
         }
       ]
@@ -1191,12 +1696,21 @@
         {
           "lang": "fi",
           "value": "µmol/l"
+        },
+        {
+          "lang": "en",
+          "value": "µmol/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "mikromoolia per litra"
+        },
+        {
+          "lang": "en",
+          "value": "micromool per litre"
         }
       ]
     }
@@ -1211,13 +1725,23 @@
         {
           "lang": "fi",
           "value": "ng/l"
+        },
+        {
+          "lang": "en",
+          "value": "ng/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "nanogrammaa per litra"
+        },
+        {
+          "lang": "en",
+          "value": "nanogram per litre"
         }
+
       ]
     }
   },
@@ -1231,13 +1755,23 @@
         {
           "lang": "fi",
           "value": "U/l"
+        },
+        {
+          "lang": "en",
+          "value": "U/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "yksikköä per litra"
+        },
+        {
+          "lang": "en",
+          "value": "units per litre"
         }
+
       ]
     }
   },
@@ -1251,12 +1785,21 @@
         {
           "lang": "fi",
           "value": "mg/l"
+        },
+        {
+          "lang": "en",
+          "value": "mg/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "milligrammaa per litra"
+        },
+        {
+          "lang": "en",
+          "value": "milligrams per liter"
         }
       ]
     }
@@ -1271,12 +1814,21 @@
         {
           "lang": "fi",
           "value": "E9/l"
+        },
+        {
+          "lang": "en",
+          "value": "E9/l"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "miljardia yksikköä per litra"
+        },
+        {
+          "lang": "en",
+          "value": "billion units per litre"
         }
       ]
     }
@@ -1291,11 +1843,19 @@
         {
           "lang": "fi",
           "value": "N"
+        },
+        {
+          "lang": "en",
+          "value": "N"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
+          "value": "newton"
+        },
+        {
+          "lang": "en",
           "value": "newton"
         }
       ]
@@ -1311,12 +1871,20 @@
         {
           "lang": "fi",
           "value": "Ω"
+        },
+        {
+          "lang": "en",
+          "value": "Ω"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "ohmi"
+        },
+        {
+          "lang": "en",
+          "value": "ohm"
         }
       ]
     }
@@ -1331,12 +1899,20 @@
         {
           "lang": "fi",
           "value": "V"
+        },
+        {
+          "lang": "en",
+          "value": "V"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "voltti"
+        },
+        {
+          "lang": "en",
+          "value": "volt"
         }
       ]
     }
@@ -1351,12 +1927,20 @@
         {
           "lang": "fi",
           "value": "Hz"
+        },
+        {
+          "lang": "en",
+          "value": "Hz"
         }
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "hertsi"
+        },
+        {
+          "lang": "en",
+          "value": "hertz"
         }
       ]
     }
@@ -1371,13 +1955,23 @@
         {
           "lang": "fi",
           "value": "kHz"
+        },
+        {
+          "lang": "en",
+          "value": "kHz"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "kilohertsi"
+        },
+        {
+          "lang": "en",
+          "value": "kilohertz"
         }
+
       ]
     }
   },
@@ -1391,13 +1985,23 @@
         {
           "lang": "fi",
           "value": "mm Hg"
+        },
+        {
+          "lang": "en",
+          "value": "mm Hg"
         }
+
       ],
       "prefLabel": [
         {
           "lang": "fi",
           "value": "elohopeamillimetri"
+        },
+        {
+          "lang": "en",
+          "value": "millimetre of mercury"
         }
+
       ]
     }
   },
@@ -1411,7 +2015,12 @@
         {
           "lang": "fi",
           "value": "Rekisteriaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Registry data"
         }
+
       ]
     }
   },
@@ -1425,7 +2034,12 @@
         {
           "lang": "fi",
           "value": "Kyselyaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Survey data"
         }
+
       ]
     }
   },
@@ -1439,7 +2053,12 @@
         {
           "lang": "fi",
           "value": "Havainnointiaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Observation data"
         }
+
       ]
     }
   },
@@ -1453,7 +2072,12 @@
         {
           "lang": "fi",
           "value": "Asiakasasiakirja-aineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Customer dossier"
         }
+
       ]
     }
   },
@@ -1467,7 +2091,12 @@
         {
           "lang": "fi",
           "value": "Muu asiakirja-aineisto"
+        },
+         {
+          "lang": "en",
+          "value": "Other dossier"
         }
+
       ]
     }
   },
@@ -1481,7 +2110,12 @@
         {
           "lang": "fi",
           "value": "Väestötutkimusaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Population research"
         }
+
       ]
     }
   },
@@ -1495,7 +2129,12 @@
         {
           "lang": "fi",
           "value": "Biopankkiaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Biobank Material"
         }
+
       ]
     }
   },
@@ -1509,7 +2148,13 @@
         {
           "lang": "fi",
           "value": "Haastatteluaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Interview data"
         }
+
+
       ]
     }
   },
@@ -1523,7 +2168,12 @@
         {
           "lang": "fi",
           "value": "Tilastoaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Statistical data"
         }
+
       ]
     }
   },
@@ -1537,7 +2187,12 @@
         {
           "lang": "fi",
           "value": "Näyteaineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Sample data"
         }
+
       ]
     }
   },
@@ -1551,7 +2206,12 @@
         {
           "lang": "fi",
           "value": "Potilasasiakirja-aineisto"
+        },
+        {
+          "lang": "en",
+          "value": "Patient dossier"
         }
+
       ]
     }
   },
@@ -1565,6 +2225,10 @@
         {
           "lang": "fi",
           "value": "Yhteyshenkilö"
+        },
+        {
+          "lang": "en",
+          "value": "Contact"
         }
       ]
     }
@@ -1579,7 +2243,12 @@
         {
           "lang": "fi",
           "value": "Rekisterivastaava"
+        },
+        {
+          "lang": "en",
+          "value": "Corresponding Register"
         }
+
       ]
     }
   },
@@ -1593,6 +2262,10 @@
         {
           "lang": "fi",
           "value": "Tilastovastaava"
+        },
+        {
+          "lang": "en",
+          "value": "Statistics Equivalent"
         }
       ]
     }
@@ -1607,7 +2280,12 @@
         {
           "lang": "fi",
           "value": "Tutkimuksen vastuullinen johtaja (HetiL)"
+        },
+        {
+          "lang": "en",
+          "value": "Responsible Director of Research"
         }
+
       ]
     }
   },
@@ -1621,7 +2299,12 @@
         {
           "lang": "fi",
           "value": "Tutkimuksesta vastaava henkilö (TVH)"
+        },
+        {
+          "lang": "en",
+          "value": "Researcher"
         }
+
       ]
     }
   },
@@ -1635,7 +2318,12 @@
         {
           "lang": "fi",
           "value": "Näytevastaava"
+        },
+        {
+          "lang": "en",
+          "value": "Sample responsible"
         }
+
       ]
     }
   },
@@ -1649,7 +2337,12 @@
         {
           "lang": "fi",
           "value": "Tiedonhallintavastaava"
+        },
+        {
+          "lang": "en",
+          "value": "Data responsible"
         }
+
       ]
     }
   },
@@ -1663,7 +2356,12 @@
         {
           "lang": "fi",
           "value": "Tekijä"
+        },
+        {
+          "lang": "en",
+          "value": "Author"
         }
+
       ]
     }
   },
@@ -1677,7 +2375,12 @@
         {
           "lang": "fi",
           "value": "Tiedon käsittelijä"
+        },
+        {
+          "lang": "en",
+          "value": "Information handler"
         }
+
       ]
     }
   },
@@ -1691,7 +2394,12 @@
         {
           "lang": "fi",
           "value": "Tietosuojavastaava"
+        },
+        {
+          "lang": "en",
+          "value": "Data Protection Officer"
         }
+
       ]
     }
   },
@@ -1705,7 +2413,12 @@
         {
           "lang": "fi",
           "value": "Vastaava tutkija"
+        },
+        {
+          "lang": "en",
+          "value": "Responsible researcher"
         }
+
       ]
     }
   },
@@ -1719,6 +2432,10 @@
         {
           "lang": "fi",
           "value": "Analyysi- ja raportointivaihe"
+        },
+        {
+          "lang": "en",
+          "value": "Analysis and reporting phase"
         }
       ]
     }
@@ -1733,6 +2450,10 @@
         {
           "lang": "fi",
           "value": "Arkistoitu"
+        },
+        {
+          "lang": "en",
+          "value": "Archived"
         }
       ]
     }
@@ -1747,7 +2468,12 @@
         {
           "lang": "fi",
           "value": "Hävitetty"
+        },
+        {
+          "lang": "en",
+          "value": "Destroyed / Deleted"
         }
+
       ]
     }
   },
@@ -1761,6 +2487,10 @@
         {
           "lang": "fi",
           "value": "Suunnitteluvaihe"
+        },
+        {
+          "lang": "en",
+          "value": "Design phase"
         }
       ]
     }
@@ -1775,6 +2505,10 @@
         {
           "lang": "fi",
           "value": "Tiedonkeruuvaihe"
+        },
+        {
+          "lang": "en",
+          "value": "Data collection phase"
         }
       ]
     }
@@ -1789,7 +2523,12 @@
         {
           "lang": "fi",
           "value": "1. Avoin aineisto"
+        },
+        {
+          "lang": "en",
+          "value": "1. Open material"
         }
+
       ]
     }
   },
@@ -1803,7 +2542,12 @@
         {
           "lang": "fi",
           "value": "2. Käyttölupa"
+        },
+        {
+          "lang": "en",
+          "value": "2. Under license"
         }
+
       ]
     }
   },
@@ -1817,7 +2561,12 @@
         {
           "lang": "fi",
           "value": "3. Biopankkilupa"
+        },
+        {
+          "lang": "en",
+          "value": "3. Under Biobank permission"
         }
+
       ]
     }
   },
@@ -1831,7 +2580,12 @@
         {
           "lang": "fi",
           "value": "4. Sopimus"
+        },
+        {
+          "lang": "en",
+          "value": "4. Under Agreement"
         }
+
       ]
     }
   },
@@ -1845,7 +2599,12 @@
         {
           "lang": "fi",
           "value": "5. Ei luovuteta"
+        },
+        {
+          "lang": "en",
+          "value": "5. Not released"
         }
+
       ]
     }
   }
