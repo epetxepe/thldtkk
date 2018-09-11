@@ -124,7 +124,7 @@ public class InstanceVariableCsvParser {
   }
 
   private void handleRow(Map<String, String> row, List<ParsingResult<InstanceVariable>> results) {
-    final String language = "fi";
+    final String language = "en";
     InstanceVariable instanceVariable = new InstanceVariable();
     List<String> rowMessages = new LinkedList<>();
 

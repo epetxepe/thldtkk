@@ -38,7 +38,7 @@ public class InstanceVariableCsvExportController {
   public @ResponseBody byte[] publicInstanceVariablesAsCsv(
     @PathVariable("studyId") UUID studyId,
     @PathVariable("datasetId") UUID datasetId,
-    @RequestParam(value = "lang", defaultValue = "fi") String language,
+    @RequestParam(value = "lang", defaultValue = "en") String language,
     @RequestParam(value = "encoding", defaultValue = "ISO-8859-15") String encoding,
     HttpServletResponse response
   ) {
@@ -71,7 +71,7 @@ public class InstanceVariableCsvExportController {
   public @ResponseBody byte[] editorInstanceVariablesAsCsv(
     @PathVariable("studyId") UUID studyId,
     @PathVariable("datasetId") UUID datasetId,
-    @RequestParam(value = "lang", defaultValue = "fi") String language,
+    @RequestParam(value = "lang", defaultValue = "en") String language,
     @RequestParam(value = "encoding", defaultValue = "ISO-8859-15") String encoding,
     HttpServletResponse response
   ) {
