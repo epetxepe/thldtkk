@@ -96,9 +96,10 @@ public class EditorDatasetServiceImpl implements EditorDatasetService {
     prefLabel = "\"" + prefLabel + "\"";
 
     return nodes.query(
+            and(keyValue("type.id", Dataset.TERMED_NODE_CLASS), keyValue(
             KeyValueCriteria.keyValue(
                     "properties.prefLabel",
-                    prefLabel),
+                    prefLabel)),
             1)
             .map(Dataset::new)
             .findFirst();

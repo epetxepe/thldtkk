@@ -90,9 +90,9 @@ public class InstanceQuestionServiceImpl implements InstanceQuestionService {
     prefLabel = "\"" + prefLabel + "\"";
 
     return nodes.query(
-            KeyValueCriteria.keyValue(
+            and(keyValue("type.id", "InstanceQuestion"), keyValue(
                     "properties.prefLabel",
-                    prefLabel),
+                    prefLabel)),
             1)
             .map(InstanceQuestion::new)
             .findFirst();

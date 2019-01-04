@@ -63,9 +63,9 @@ public class QuantityServiceImpl implements QuantityService {
     prefLabel = "\"" + prefLabel + "\"";
 
     return nodes.query(
-            KeyValueCriteria.keyValue(
+	    and(keyValue("type.id", "Quantity"), keyValue(
                     "properties.prefLabel",
-                    prefLabel),
+                    prefLabel)),
             1)
             .map(Quantity::new)
             .findFirst();

@@ -73,9 +73,9 @@ public class UnitTypeServiceImpl implements UnitTypeService {
     prefLabel = "\"" + prefLabel + "\"";
 
     return nodes.query(
-            KeyValueCriteria.keyValue(
+	    and(keyValue("type.id", "UnitType"), keyValue(
                     "properties.prefLabel",
-                    prefLabel),
+                    prefLabel)),
             1)
             .map(UnitType::new)
             .findFirst();
