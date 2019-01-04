@@ -73,9 +73,9 @@ public class VariableServiceImpl implements VariableService {
     prefLabel = "\"" + prefLabel + "\"";
 
     return nodes.query(
-            KeyValueCriteria.keyValue(
+            and (keyValue("type.id", "Variable"), keyValue(
                     "properties.prefLabel",
-                    prefLabel),
+                    prefLabel)),
             1)
             .map(Variable::new)
             .findFirst();
