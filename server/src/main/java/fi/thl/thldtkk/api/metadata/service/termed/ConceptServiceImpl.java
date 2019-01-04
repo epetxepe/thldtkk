@@ -55,9 +55,9 @@ public class ConceptServiceImpl implements ConceptService {
     prefLabel = "\"" + prefLabel + "\"";
 
     return nodes.query(
-            KeyValueCriteria.keyValue(
+	    and(keyValue("type.id", "Concept"), keyValue(
                     "properties.prefLabel",
-                    prefLabel),
+                    prefLabel)),
             1)
             .map(Concept::new)
             .findFirst();
