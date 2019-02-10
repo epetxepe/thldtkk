@@ -97,7 +97,6 @@ public class EditorDatasetServiceImpl implements EditorDatasetService {
 
     return nodes.query(
             and(keyValue("type.id", Dataset.TERMED_NODE_CLASS), keyValue(
-            KeyValueCriteria.keyValue(
                     "properties.prefLabel",
                     prefLabel)),
             1)
