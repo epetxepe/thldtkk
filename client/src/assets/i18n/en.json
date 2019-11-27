@@ -91,7 +91,7 @@
 	"conceptsFromScheme": "Keywords",
 	"conceptsFromSchemePlaceholder": "Search for topics...",
 	"noMatchingConcepts": "No matching concepts.",
-	"noConceptsFromScheme": "Asiasanoja ei ole määritelty.",
+	"noConceptsFromScheme": "No keywords have been defined.",
 	"freeConcepts": "Free keywords",
 	"noFreeConcepts": "Free topics are not defined.",
 	"source": "Source",
@@ -1094,7 +1094,7 @@
 				"helpText": "<p>Publish button material description is published openly in the Material Catalog. Publishing can be canceled with the Peru release button.</p><p>NOTE: If you make changes to the description after the release and also want to update them in the Material Catalog, click the Publish Again button.</p>"
 			},
 			"unpublishButton": {
-				"label": "Peru publication"
+				"label": "Unpublish"
 			},
 			"reissueButton": {
 				"label": "Publish again"

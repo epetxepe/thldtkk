@@ -52,13 +52,13 @@
         </ng-container>
       </ng-template>
 
-      <ng-template #inheritedStudyReferencePeriod>
+<!--      <ng-template #inheritedStudyReferencePeriod>
         <ng-container *ngIf="(instanceVariable.dataset.study && (instanceVariable.dataset.study.referencePeriodStart || instanceVariable.dataset.study.referencePeriodEnd)); else noReferencePeriod">
           {{ instanceVariable.dataset.study.referencePeriodStart | date:'dd.MM.yyyy' }}
           —
           {{ instanceVariable.dataset.study.referencePeriodEnd | date:'dd.MM.yyyy' }}
         </ng-container>
-      </ng-template>
+      </ng-template>-->
 
       <ng-template #noReferencePeriod>
         {{'editor.searchInstanceVariable.noReferencePeriod' | translate}}
